@@ -10,7 +10,6 @@
 # PROCESS-NAME: 3
 # TOTAL: 2261
 ai.google.dev
-aistudio.google.com
 akmcdnoversea-tw.inter.ptqy.gitv.tv
 api.githubcopilot.com
 api.groq.com
